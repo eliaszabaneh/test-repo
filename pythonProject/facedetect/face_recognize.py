@@ -30,7 +30,7 @@ for (subdirs, dirs, files) in os.walk(datasets):
 
 # OpenCV trains a model from the images
 # NOTE FOR OpenCV2: remove '.face'
-#model = cv2.LBPHFaceRecognizer_create()
+# model = cv2.LBPHFaceRecognizer_create()
 
 # model = cv2.face_LBPHFaceRecognizer.create(radius=2, neighbors=16, grid_x=8, grid_y=8)
 model = cv2.face_LBPHFaceRecognizer.create()
@@ -52,10 +52,12 @@ while True:
         prediction = model.predict(face_resize)
         cv2.rectangle(im, (x, y), (x + w, y + h), (0, 255, 0), 3)
 
-        if prediction[1]<500:
-                        cv2.putText(im, '% s - %.0f' % (names[prediction[0]], prediction[1]), (x-10, y-10),cv2.FONT_HERSHEY_PLAIN, 1, (0, 255, 0))
+        if prediction[1] < 300:
+#            print(prediction)
+            cv2.putText(im, '% s - %.0f' % (names[prediction[0]], prediction[1]), (x - 10, y - 10),
+                        cv2.FONT_HERSHEY_PLAIN, 1, (0, 255, 0))
         else:
-                        cv2.putText(im, 'not recognized',(x-10, y-10), cv2.FONT_HERSHEY_PLAIN, 1, (0, 255, 0))
+            cv2.putText(im, 'not recognized', (x - 10, y - 10), cv2.FONT_HERSHEY_PLAIN, 1, (255, 0, 0))
 
     cv2.imshow('OpenCV', im)
 
