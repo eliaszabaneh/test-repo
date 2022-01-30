@@ -23,12 +23,15 @@ def detectAndDisplay(frame):
     cv.imshow('Capture - Face detection', frame)
 
 
+# print(cv.samples.findFile('D:\\test-repo\\venv\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt.xml'))
+# exit(111)
+# cv.samples.addSamplesDataSearchPath('D:\\test-repo\\venv\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt.xml')
 # cv.samples.addSamplesDataSearchPath('C:\\PycharmProjects\\pythonProject\\venv\\Lib\\site-packages\\cv2\\SAMPLES\\data\\haarcascades')
 parser = argparse.ArgumentParser(description='Code for Cascade Classifier tutorial.')
 parser.add_argument('--face_cascade', help='Path to face cascade.',
-                    default=cv.samples.findFile('haarcascades\\haarcascade_frontalface_alt.xml'))
+                    default=cv.samples.findFile('haarcascade_frontalface_alt.xml'))
 parser.add_argument('--eyes_cascade', help='Path to eyes cascade.',
-                    default=cv.samples.findFile('haarcascades\\haarcascade_eye_tree_eyeglasses.xml'))
+                    default=cv.samples.findFile('haarcascade_eye_tree_eyeglasses.xml'))
 parser.add_argument('--camera', help='Camera divide number.', type=int, default=0)
 args = parser.parse_args()
 face_cascade_name = args.face_cascade

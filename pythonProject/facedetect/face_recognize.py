@@ -33,7 +33,7 @@ for (subdirs, dirs, files) in os.walk(datasets):
 # model = cv2.LBPHFaceRecognizer_create()
 
 # model = cv2.face_LBPHFaceRecognizer.create(radius=2, neighbors=16, grid_x=8, grid_y=8)
-model = cv2.face_LBPHFaceRecognizer.create()
+model = cv2.face.LBPHFaceRecognizer_create()
 
 model.train(images, labels)
 

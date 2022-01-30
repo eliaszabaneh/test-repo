@@ -6,7 +6,7 @@ import pandas as pd
 path = 'Data\Experience_Salaries.csv'
 data = pd.read_csv(path)
 print(data.describe())
-print(data.head())
+print("Printing head() \n",data.head())
 print("Shape of the data:", data.shape)
 # mean = data.itmBrand.mean()
 # mean = data['itmBrand'].mean()

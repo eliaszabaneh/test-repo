@@ -30,13 +30,15 @@ import sys
 
 import dlib
 
+
 def show_jittered_images(window, jittered_images):
-    '''
+    """
         Shows the specified jittered images one by one
-    '''
+    """
     for img in jittered_images:
         window.set_image(img)
         dlib.hit_enter_to_continue()
+
 
 if len(sys.argv) != 2:
     print(
