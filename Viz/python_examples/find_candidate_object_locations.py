@@ -33,7 +33,7 @@
 
 import dlib
 
-image_file = '../examples/faces/2009_004587.jpg'
+image_file = '../../examples/faces/2009_004587.jpg'
 img = dlib.load_rgb_image(image_file)
 
 # Locations of candidate objects will be saved into rects

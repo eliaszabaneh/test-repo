@@ -49,7 +49,7 @@ if len(sys.argv) != 2:
     exit()
 
 predictor_path = sys.argv[1]
-face_file_path = "../examples/faces/Tom_Cruise_avp_2014_4.jpg"
+face_file_path = "../../examples/faces/Tom_Cruise_avp_2014_4.jpg"
 
 # Load all the models we need: a detector to find the faces, a shape predictor
 # to find face landmarks so we can precisely localize the face

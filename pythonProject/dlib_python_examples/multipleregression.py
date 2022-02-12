@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 # reading the dataset
-dataset = pd.read_csv('50_Startups.csv')
+dataset = pd.read_csv('../ML/50_Startups.csv')
 
 # checking the top 5 rows
 print(dataset.head())
