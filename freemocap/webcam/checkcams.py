@@ -1,5 +1,6 @@
 from tqdm import tqdm
-import cv2
+import \
+    cv2
 import os
 import platform
 
