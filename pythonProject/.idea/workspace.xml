@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2de80e54-08a1-48a7-bc6a-14f7f9a7d9c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/DANY/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/ISMAT/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/ISMAT/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/Kanagaraj/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/datasets/elias/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/face_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/haarcascade_frontalface_alt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/test1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LinearRegression.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="23rcdsbJRfg4j7YwWuNEYvbvj7a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/NON/dlib-19.22.1" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="pythonProject" is-module-sdk="true">
+        <envs>
+          <env key="OPENCV_SAMPLES_DATA_PATH" value="C:\PycharmProjects\pythonProject\venv\Lib\site-packages\cv2\samples" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="pythonProject" />
+        <option name="myEnvs">
+          <map>
+            <entry key="OPENCV_SAMPLES_DATA_PATH" value="C:\PycharmProjects\pythonProject\venv\Lib\site-packages\cv2\samples" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\pythonProject\facedetect" />
+      <recent name="C:\PycharmProjects\pythonProject\websockets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cnn_face_detector">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENCV_SAMPLES_DATA_PATH" value="C:\PycharmProjects\pythonProject\samples" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face-Morphing-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face-Morphing-master/code/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENCV_SAMPLES_DATA_PATH" value="C:\PycharmProjects\pythonProject\samples" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cnn_face_detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENCV_SAMPLES_DATA_PATH" value="C:\PycharmProjects\pythonProject\samples" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dlib_python_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dlib_python_examples/cnn_face_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENCV_SAMPLES_DATA_PATH" value="C:\PycharmProjects\pythonProject\samples" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facedetect" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facedetect/create_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_recognize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facedetect" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facedetect/face_recognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENCV_SAMPLES_DATA_PATH" value="C:\PycharmProjects\pythonProject\samples" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Users/Elias/Desktop/pytest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Users/Elias/Desktop/pytest/pytest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.create_data" />
+      <item itemvalue="Python.face_recognize" />
+      <item itemvalue="Python.pytest" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.cnn_face_detector" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cnn_face_detector" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.face_recognize" />
+        <item itemvalue="Python.create_data" />
+        <item itemvalue="Python.pytest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de80e54-08a1-48a7-bc6a-14f7f9a7d9c0" name="Changes" comment="" />
+      <created>1642495739235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642495739235</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1642657014487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642657014487</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1642679417693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642679417693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+</project>

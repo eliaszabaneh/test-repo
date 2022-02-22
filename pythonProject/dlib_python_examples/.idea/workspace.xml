@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cff8877-52a4-483f-97e1-227f0e17b5ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/DANY/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/ISMAT/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/ISMAT/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/Kanagaraj/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/datasets/elias/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/face_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/haarcascade_frontalface_alt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facedetect/test1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23xxknApgCPeOlONuVj0SxBcLQO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cff8877-52a4-483f-97e1-227f0e17b5ea" name="Changes" comment="" />
+      <created>1642689688193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642689688193</updated>
+    </task>
+    <servers />
+  </component>
+</project>

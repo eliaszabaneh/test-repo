@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee7494a6-e497-424a-b6da-59af7392d430" name="Changes" comment="commit one">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/delaunay_triangulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/face_landmark_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/face_morph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/utils/align_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/utils/combinegif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/utils/crossdis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/utils/face_alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/utils/landmarks_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face-Morphing-master/code/utils/shape_predictor_68_face_landmarks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dlib-19.22.99-cp39-cp39-win_amd64.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/delaunay_triangulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/face_landmark_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/face_morph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/utils/align_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/utils/combinegif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/utils/crossdis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/utils/face_alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/utils/landmarks_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/code/utils/shape_predictor_68_face_landmarks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/imageslist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face-morphing-multiple-images-main/imglst.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/LICENSE_FOR_EXAMPLE_PROGRAMS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/cnn_face_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/correlation_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/face_alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/face_clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/face_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/face_jitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/face_landmark_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/face_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/find_candidate_object_locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/global_optimization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/max_cost_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/opencv_webcam_face_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/sequence_segmenter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/svm_binary_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/svm_rank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/svm_struct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/train_object_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_examples/train_shape_predictor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Data/Experience_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Data/amx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Haar-cascadeDetection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/LinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/ML/50_Startups.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/ML/multipleregression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/LICENSE_FOR_EXAMPLE_PROGRAMS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/cnn_face_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/correlation_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/face_alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/face_clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/face_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/face_jitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/face_landmark_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/face_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/find_candidate_object_locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/global_optimization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/max_cost_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/mmod_human_face_detector.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/mmod_human_face_detector.dat.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/mmod_human_face_detector/mmod_human_face_detector.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/opencv_webcam_face_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/sequence_segmenter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/svm_binary_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/svm_rank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/svm_struct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/train_object_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dlib_python_examples/train_shape_predictor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/create_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/datasets/Elias/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/face_recognize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/facedetect/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/videoframeextract/vid.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="EZ" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23zltlDtxoav5FMQPD9iMJCdjb0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dlib-19.22.99-cp39-cp39-win_amd64.whl" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\Viz\Face-Morphing-master\results" />
+      <recent name="C:\PycharmProjects\Viz\face-morphing-multiple-images-main\OUTPUT" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cnn_face_detector">
+    <configuration name="cnn_face_detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Viz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_examples/cnn_face_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_morph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Viz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face-Morphing-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face-Morphing-master/code/face_morph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opencv_webcam_face_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Viz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_examples/opencv_webcam_face_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_examples" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Viz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_examples" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sequence_segmenter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Viz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_examples/sequence_segmenter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_shape_predictor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Viz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_examples/train_shape_predictor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.python_examples" />
+      <item itemvalue="Python.opencv_webcam_face_detection" />
+      <item itemvalue="Python.face_morph" />
+      <item itemvalue="Python.sequence_segmenter" />
+      <item itemvalue="Python.train_shape_predictor" />
+      <item itemvalue="Python.cnn_face_detector" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cnn_face_detector" />
+        <item itemvalue="Python.train_shape_predictor" />
+        <item itemvalue="Python.sequence_segmenter" />
+        <item itemvalue="Python.face_morph" />
+        <item itemvalue="Python.opencv_webcam_face_detection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee7494a6-e497-424a-b6da-59af7392d430" name="Changes" comment="" />
+      <created>1642745014543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642745014543</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit one">
+      <created>1642761756510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642761756510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit one">
+      <created>1642761827954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642761827954</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit one" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit one" />
+  </component>
+</project>
