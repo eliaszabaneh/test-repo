@@ -19,3 +19,18 @@
 +defaults/win-64::xz-5.2.5-h62dcd97_0
 +defaults/win-64::zlib-1.2.11-hbd8134f_5
 # update specs: ['python=3.10']
+==> 2022-04-12 11:19:56 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install -p C:/PycharmProjects/test-repo/gmailPyProject/Anaconda3/env requests -y
+# conda version: 4.10.3
++defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
++defaults/noarch::idna-3.3-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::pyopenssl-22.0.0-pyhd3eb1b0_0
++defaults/noarch::requests-2.27.1-pyhd3eb1b0_0
++defaults/noarch::urllib3-1.26.8-pyhd3eb1b0_0
++defaults/win-64::brotlipy-0.7.0-py310h2bbff1b_1002
++defaults/win-64::cffi-1.15.0-py310h2bbff1b_1
++defaults/win-64::cryptography-36.0.0-py310h21b164f_0
++defaults/win-64::pysocks-1.7.1-py310haa95532_0
++defaults/win-64::win_inet_pton-1.1.0-py310haa95532_0
+# update specs: ['requests']
