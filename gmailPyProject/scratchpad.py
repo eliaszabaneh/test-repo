@@ -17,10 +17,6 @@ def main():
     print(df.iloc[0])
     print(df.loc[0])
 
-    # pi plot From frequency
-    ax = df.plot.hist(column=["msgDate"])
-
-    plt.show()
 
 
 def othermain():
